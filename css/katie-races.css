@@ -1,4 +1,3 @@
-
 /* katie's Styles */
 
 html,
@@ -114,37 +113,19 @@ li{
 .col-md-6 iframe{
     margin-top: 100px;
 }
+.video-responsive {
+    max-width: 100%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.col-md-6 iframe{
+    margin-top: 9px;
+}
+.about iframe{
+    margin-top:69px;
+}
+.carousel-caption h1{
+    color: #6364A2;
+}
+.carousel-caption h2{
+    color: #6364A2;
+}
